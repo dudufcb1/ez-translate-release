@@ -19,3 +19,7 @@ EZ-Translate es un plugin para WordPress diseñado para simplificar y automatiza
 2.  Vaya al panel de administración de WordPress -> Plugins -> Añadir nuevo.
 3.  Haga clic en "Subir plugin" y seleccione el archivo `.zip`.
 4.  Active el plugin a través del menú "Plugins" en WordPress.
+## Sobre el autor
+
+*   **Página del plugin:** [EZ-Translate](https://especialistaenwp.com/ez-translate/)
+*   **Servicios:** Desarrollo de plugins a medida, temas FSE y clásicos, y optimización de sitios WordPress. [Especialista En Wordpress](https://especialistaenwp.com/)
